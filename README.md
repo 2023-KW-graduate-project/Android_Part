@@ -1,5 +1,5 @@
 # 뭐놀? (뭐하고 놀지?)
-## 사용자의 입력을 반영하여 서울시 안의 놀거리 코스 추천 어플리케이션
+## 사용자의 입력을 반영하여 서울 내 놀거리 코스 추천 어플리케이션
 
 ![image](https://github.com/2023-KW-graduate-project/Android_Part/assets/84065395/91ab015b-6caf-4b3b-b7f9-dbabe4ccab13)
 
